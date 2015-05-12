@@ -8,8 +8,8 @@ Input text using the rotor wheel
 5. Press the Center button to "submit" the input. (Logically equivalent to pressing "Enter")
 
 4.5. (FUTURE) Press the "WEST" (or "Left") button to move the cursor back one character and edit that.
-(FUTURE) Use an easing function on the cycling of characters
-(FUTURE) Display a RED | when the INPUT_BUFFER_LEN is reached
+<br>(FUTURE) Use an easing function on the cycling of characters
+<br>(FUTURE) Display a RED | when the INPUT_BUFFER_LEN is reached
 
 In the demonstration, the input currently being entered is displayed in White. Once the input is submitted, the received text will be drawn in Gray to signify that it is "locked in". Then the demo will ask for input again and repeat everything, but the input would continue from where the last displayed text ended.
 
