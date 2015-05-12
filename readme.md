@@ -5,7 +5,7 @@ A small "library" for the LaFortuna board that allows reading of input text usin
 2. Rotate the rotor wheel to select a character
 3. Press the "EAST" (or "Right") button to "lock" the selected character and move to selecting the next.
 4. Press the "SOUTH" (or "Down") button to quickly select "Space" and advance to selecting the next character.
-5. Press the CENTER button to "submit" the input. (Logically equivalent to pressing "Enter")
+5. Press the "CENTER" button to "submit" the input. (Logically equivalent to pressing "Enter")
 
 4.5. (FUTURE) Press the "WEST" (or "Left") button to move the cursor back one character and edit that.
 <br>(FUTURE) Use an easing function on the cycling of characters
